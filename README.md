@@ -84,7 +84,7 @@ This project explores the behavioral patterns and satisfaction signals of Airbnb
 ---
 
 ## 📁 Folder Overview
-
+- Files starting with 01 are related to Structured Feature Analysis (ML), while 02 related to Unstructured Text Analysis (NLP).
 ```bash
 Integrated-Analysis-of-Airbnb-User-Experience-in-Melbourne/
 │
