@@ -9,6 +9,10 @@ This project explores the behavioral patterns and satisfaction signals of Airbnb
 - **Source**: [Kaggle - Melbourne Airbnb Open Data](https://www.kaggle.com/datasets/tylerx/melbourne-airbnb-open-data)
 - **Scope**: Over 480,000 reviews and over 22,000 rows of listing data
 - **Focus**: Guest review data and listing features for sentiment, pricing, and satisfaction analysis
+- **Content**
+  - `[01_listings_summary_dec18.csv](https://github.com/zion-wu/Integrated-Analysis-of-Airbnb-User-Experience-in-Melbourne/blob/main/datasets/01_listings_summary_dec18.csv)`
+  - `[01_preprocessed_listings_summary.csv](https://github.com/zion-wu/Integrated-Analysis-of-Airbnb-User-Experience-in-Melbourne/blob/main/datasets/01_preprocessed_listings_summary.csv)`
+  - `02_reviews_dec18.csv` can be found in public dataset [Kaggle - Melbourne Airbnb Open Data](https://www.kaggle.com/datasets/tylerx/melbourne-airbnb-open-data), with original name as `reviews_dec18.csv`
 
 ---
 
