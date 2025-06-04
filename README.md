@@ -11,8 +11,8 @@ This project explores the behavioral patterns and satisfaction signals of Airbnb
 - **Focus**: Guest review data and listing features for sentiment, pricing, and satisfaction analysis
 - **Content**
   - [`01_listings_summary_dec18.csv`](https://github.com/zion-wu/Integrated-Analysis-of-Airbnb-User-Experience-in-Melbourne/blob/main/datasets/01_listings_summary_dec18.csv)
-  - [`01_preprocessed_listings_summary.csv`](https://github.com/zion-wu/Integrated-Analysis-of-Airbnb-User-Experience-in-Melbourne/blob/main/datasets/01_preprocessed_listings_summary.csv)
-  - `02_reviews_dec18.csv` can be found in public dataset [Kaggle - Melbourne Airbnb Open Data](https://www.kaggle.com/datasets/tylerx/melbourne-airbnb-open-data), with original name as `reviews_dec18.csv`
+  - [`01_preprocessed_listings_summary.csv`](https://github.com/zion-wu/Integrated-Analysis-of-Airbnb-User-Experience-in-Melbourne/blob/main/datasets/01_preprocessed_listings_summary.csv) is preprocessed
+  - `02_reviews_dec18.csv` can be found in public dataset [Kaggle - Melbourne Airbnb Open Data - reviews_dec18](https://www.kaggle.com/datasets/tylerx/melbourne-airbnb-open-data?select=reviews_dec18.csv)
 
 ---
 
