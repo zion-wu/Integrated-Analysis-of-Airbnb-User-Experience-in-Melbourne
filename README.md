@@ -1,4 +1,4 @@
-# Integrated Analysis of Airbnb User Experience in Melbourne
+# Integrated Research on Airbnb User Experience in Melbourne
 
 This project explores the behavioral patterns and satisfaction signals of Airbnb guests in Melbourne, Australia. By leveraging both structured listing features and unstructured guest reviews, I developed two complementary pipelines: one for quantitative feature-based modeling and another for natural language processing of review text.
 
